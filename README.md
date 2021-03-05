@@ -1,2 +1,2 @@
 # noi.openjudge
-The problem I done in noi.openjudge
+The problem I solved in noi.openjudge
