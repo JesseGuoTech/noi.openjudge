@@ -2,7 +2,12 @@
 #include<iostream>
 using namespace std;
 main(){
-	cout<<sizeof(int)<<" "<<sizeof(short)<<endl;
+	int a;
+	bool flag;
+	cin>>a;
+	flag=a;
+	a=flag;
+	printf("%d\n",a);
 	system("pause");
 	return EXIT_SUCCESS;
 }

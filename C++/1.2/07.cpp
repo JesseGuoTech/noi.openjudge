@@ -2,7 +2,9 @@
 #include<iostream>
 using namespace std;
 main(){
-	cout<<sizeof(int)<<" "<<sizeof(short)<<endl;
+	char a;
+	cin>>a;
+	printf("%d\n",int(a));
 	system("pause");
 	return EXIT_SUCCESS;
 }

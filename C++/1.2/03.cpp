@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 main(){
-	cout<<sizeof(int)<<" "<<sizeof(short)<<endl;
+	cout<<sizeof(bool)<<" "<<sizeof(char)<<endl;
 	system("pause");
 	return EXIT_SUCCESS;
 }
